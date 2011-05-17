@@ -1,0 +1,3 @@
+[submodule "clients/ledwallfoo"]
+	path = clients/ledwallfoo
+	url = git@github.com:thammi/ledwallfoo.git
